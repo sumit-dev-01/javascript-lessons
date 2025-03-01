@@ -29,7 +29,7 @@ To ensure a smooth learning experience and maintain the integrity of the content
 
 ## Connect with CloudAdda
 
-Stay updated with the latest content and tutorials by subscribing to the [CloudAdda YouTube channel](https://www.youtube.com/cloudadda).
+Stay updated with the latest content and tutorials by subscribing to the [CloudAdda YouTube channel](https://www.youtube.com/@cloudadda.001).
 
 Happy Learning!
 
