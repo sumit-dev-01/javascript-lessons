@@ -27,6 +27,12 @@ To ensure a smooth learning experience and maintain the integrity of the content
 - **Content Integrity**: Do not modify or delete any main lesson notes or research files without prior approval.
 - **Respect and Collaboration**: Be respectful in your communications and collaborative efforts.
 
+### ⚠️ Important: Secure Your Contributions with SSH
+
+Please create an SSH key and configure it to become a verified student. This is important for your security and to ensure the integrity of your contributions. Your pull requests will be marked as verified if you use SSH keys.
+
+For detailed instructions, please refer to the dedicated video on the [CloudAdda YouTube channel](https://www.youtube.com/@cloudadda.001).
+
 ## Connect with CloudAdda
 
 Stay updated with the latest content and tutorials by subscribing to the [CloudAdda YouTube channel](https://www.youtube.com/@cloudadda.001).
